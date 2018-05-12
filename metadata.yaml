@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '8898'
     url: http://www.gutenberg.org/2009/agents/8898
 description: Mind of Jesus -- Words of Jesus -- Faithful promiser.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28507#The-Mind-of-Jesus
 gutenberg_issued: '2009-04-05'
 gutenberg_type: Text
 identifiers:
